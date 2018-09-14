@@ -6,7 +6,7 @@
 # 效率
 
 * [效率](效率/README.md)
-   * [on-my-zsh git alias](效率/git alias.md)
+   * [on-my-zsh git alias](效率/git-alias.md)
    * [Markdown写ppt](效率/markdown_write_ppt.md)
 --------
 
