@@ -153,3 +153,113 @@ this.appBar,
     this.primary: true,
 ```
 
+# Text
+
+显示和格式化文本。  
+
+## Text  
+
+单一style的文本。
+
+## RichText
+
+一段富文本。  
+
+使用多种style显示文本。
+
+```
+new RichText(
+  text: new TextSpan(
+    text: 'Hello ',
+    style: DefaultTextStyle.of(context).style,
+    children: <TextSpan>[
+      new TextSpan(text: 'bold', style: new TextStyle(fontWeight: FontWeight.bold)),
+      new TextSpan(text: ' world!'),
+    ],
+  ),
+)
+```
+
+## DefaultTextStyle
+
+# Input  
+
+除了Material和Cupertino中的输入组件。  
+
+## Form  
+
+将多个组件组合蕲艾的容器，比如说TextField组件。  
+
+每一个单独的form字段必须使用FormField组件进行包装，调用FormState来保存、充值或更新状态。  
+
+可以使用Form.of获取一个FormState。  
+
+## FormField  
+
+一个单独的form字段。  
+
+这个组件管理当前form的状态。当在Form中使用时，你可以使用FormState上的方法来查询和操作form数据。
+
+# Material组件  
+
+## App结构和导航  
+
+- Scaffod
+
+- Appbar
+
+- BottomNavigatonBar
+
+- TabBar
+
+- TabBarView
+
+- MaterialApp
+
+- WidgetsApp
+
+- Drawer  
+
+## Buttons  
+- RaisedButton 
+- FloatingActionButton
+- FlatButton  
+- IconButton
+- PopupMenuButton
+- BUttonBar
+
+## Input和Selections
+- TextField  
+- CheckBox
+- Radio
+- Switch
+- Slider
+- Date&Time Pickers
+
+## 对话框  
+- SimpleDialog  
+- AlertDialog
+- ButtonSheet
+- ExpansionPanel  
+- SnackBar  
+
+## 信息展示  
+- Image   
+- Icon
+- Chip
+- Tooltip  
+- DataTable  
+- Card  
+- LinearProgresssIndicator  
+- Gridview
+
+## Layout
+- ListTile
+- Stepper
+- Diveider  
+
+根据上面的控件，写了一个例子，如下图：  
+
+![](https://ws3.sinaimg.cn/large/006tNbRwgy1fvg9otscn0g30c20i5nb4.gif)
+
+[代码地址](https://github.com/wangli135/flutter_demo/blob/master/lib/widgets_category.dart)
