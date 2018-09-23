@@ -263,3 +263,4 @@ new RichText(
 ![](https://ws3.sinaimg.cn/large/006tNbRwgy1fvg9otscn0g30c20i5nb4.gif)
 
 [代码地址](https://github.com/wangli135/flutter_demo/blob/master/lib/widgets_category.dart)
+
