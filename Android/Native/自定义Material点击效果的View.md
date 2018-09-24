@@ -1,7 +1,6 @@
 最近在做项目的时候，遇到一个需求，需要自定义一个View；写到布局文件里面，希望也有Material的波纹点击效果，需要怎么弄呢？  
 
 ## ?attr/selectableItemBackground
-
 将该View的background属性设为标题的样式即可，这样在5.0以上就有了波纹效果，在5.0以上就是selector的效果。   
 
 这样设置了后，就有了系统默认的效果。  
