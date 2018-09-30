@@ -16,3 +16,8 @@
 | gco branchname | git checkout            |
 | gsta           | git stash save          |
 | gstp           | git stash pop           |
+
+- 重命名分支 giit branch -m oldbranchname newbranchname
+- 删除本地分支 git branch -d <BranchName>
+- 删除远程分支 git push origin --delete <BranchName>
+

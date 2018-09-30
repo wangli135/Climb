@@ -1,0 +1,1 @@
+本章节主要介绍Android Native开发遇到的一些问题以及学习的知识点，所谓Native指的就是原生开发，和Hybrid、Weex、Flutter这些相对，而非NDK的开发。
