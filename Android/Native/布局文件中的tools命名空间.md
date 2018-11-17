@@ -76,5 +76,5 @@ android {
 手动表明资源废弃
 
 ## 参考  
-- [Tools attributes reference](https://developer.android.com/studio/write/tool-attributes)
+- [Tools attributesgc reference](https://developer.android.com/studio/write/tool-attributes)
 - [[译]精通 Android 中的 tools 命名空间](https://www.jianshu.com/p/a39dddb46bd8)
