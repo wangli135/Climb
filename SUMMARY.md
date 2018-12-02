@@ -41,6 +41,7 @@
      - [布局文件中的tools命名空间](/Android/Native/布局文件中的tools命名空间.md)
 
      - [TabLayout使用指南](/Android/Native/TabLayout使用指南.md)  
+     - [AppBarLayout学习](/Android/Native/AppBarLayout学习.md)
 
      - [Jetpack](Android/Native/Jetpack/README.md)  
        - [动画和转换](Android/Native/Jetpack/动画和转换/README.md)  
