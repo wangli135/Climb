@@ -7,7 +7,7 @@
 淡入淡出动画一般是一个View在渐渐消失，另一个View同时在渐渐出现。 
 
 先看效果，如下图：  
-![](https://ws2.sinaimg.cn/large/006tNbRwly1fy0fpxr8zrg309n0h2k8c.gif)
+![淡入淡出效果动画](https://ws2.sinaimg.cn/large/006tNbRwly1fy0fpxr8zrg309n0h2k8c.gif)
 
 可以看到效果是一个文本渐渐出现，loading渐渐消失。  
 
@@ -89,7 +89,7 @@ class CrossFadeActivity : AppCompatActivity() {
 
 先看效果：  
 
-![](https://ws3.sinaimg.cn/large/006tNbRwly1fy0gbaumkog309n0h2e81.gif)
+![卡片翻转动画效果](https://ws3.sinaimg.cn/large/006tNbRwly1fy0gbaumkog309n0h2e81.gif)
 
 这里采用自定义Fragment的专场动画，其中有两个Fragment，布局都很简单，就不展示了。  
 
@@ -169,7 +169,7 @@ override fun onCreate(savedInstanceState: Bundle?) {
 
 去掉自定义的动画，转场如下图所示：  
 
-![](https://ws2.sinaimg.cn/large/006tNbRwly1fy0gkezt10g309n0h2q4o.gif)
+![Fragment默认的转场动画](https://ws2.sinaimg.cn/large/006tNbRwly1fy0gkezt10g309n0h2q4o.gif)
 
 是不是很突兀？看来有个动画还是真的不一样的。  
 
@@ -177,7 +177,7 @@ override fun onCreate(savedInstanceState: Bundle?) {
 
 话不多说，先看效果：  
 
-![](https://ws1.sinaimg.cn/large/006tNbRwly1fy0h4f5wbmg309n0h2q40.gif)
+![Circle Reveal动画效果](https://ws1.sinaimg.cn/large/006tNbRwly1fy0h4f5wbmg309n0h2q40.gif)
 
 ViewAnimationUtils.createCircularReveal()方法使我们可以有上述的效果。但是该类在API 21之上才有效果。  
 

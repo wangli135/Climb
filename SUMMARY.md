@@ -47,6 +47,7 @@
        - [动画和转换](Android/Native/Jetpack/动画和转换/README.md)  
             - [具有动画效果的图片资源](Android/Native/Jetpack/动画和转换/具有动画效果的图片资源.md)
             - [使用动画隐藏或显示View](Android/Native/Jetpack/动画和转换/使用动画隐藏或显示View.md)
+            - [使用动画移动View](Android/Native/Jetpack/动画和转换/使用动画移动View.md)
 
 
    * [Flutter](Android/Flutter/README.md)
