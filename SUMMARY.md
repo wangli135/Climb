@@ -9,6 +9,7 @@
 * [效率](效率/README.md)
    * [on-my-zsh git alias](效率/git-alias.md)
    * [Markdown写ppt](效率/markdown_write_ppt.md)
+   * [开发者的Mac工具集合](效率/开发者的Mac工具集合.md)
 --------
 
 # 语言
