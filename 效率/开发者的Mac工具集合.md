@@ -14,6 +14,7 @@
 - FeHelper：Chrome 插件
 ![FeHelper工具栏](https://ws4.sinaimg.cn/large/006tNbRwly1fymoljvuv2j30960tyq5m.jpg)
 - Pocket:Chrome插件，收藏文章，也有客户端  
+- SourceTree：Git管理工具
 
 ## 博客利器  
 

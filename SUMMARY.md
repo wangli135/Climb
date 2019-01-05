@@ -28,8 +28,6 @@
 
 # Android
 
-
-
 * [Android](Android/README.md)
 
    * [Native](Android/Native/README.md)
@@ -46,8 +44,16 @@
             - [具有动画效果的图片资源](Android/Native/Jetpack/动画和转换/具有动画效果的图片资源.md)
             - [使用动画隐藏或显示View](Android/Native/Jetpack/动画和转换/使用动画隐藏或显示View.md)
             - [使用动画移动View](Android/Native/Jetpack/动画和转换/使用动画移动View.md)
+            - [使用Fling动画移动View](Android/Native/Jetpack/动画和转换/使用Fling移动View.md)
 
+     * [Flutter](Android/Flutter/README.md)
+         * [APP的基础——组件](Android/Flutter/APP的基础——组件.md)  
 
-   * [Flutter](Android/Flutter/README.md)
+     * [开源库](Android/开源库/README.md)
+         * [EventBus](Android/开源库/EventBus/README.md)  
+            - [EventBus简介及初步使用](Android/开源库/EventBus/EventBus简介及初步使用.md)
+            - [EventBus线程分发](Android/开源库/EventBus/EventBus线程分发.md)
+            - [EventBus配置、粘性事件、优先级和取消事件分发](Android/开源库/EventBus/EventBus配置、粘性事件、优先级和取消事件分发.md)
+            - [EventBus源码分析之发布订阅模型](Android/开源库/EventBus/EventBus源码分析之发布订阅模型.md)
+            - [EventBus源码分析之线程分发](Android/开源库/EventBus/EventBus源码分析之线程分发.md)
 
-     * [APP的基础——组件](Android/Flutter/APP的基础——组件.md)
