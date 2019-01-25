@@ -46,6 +46,7 @@
             - [使用动画移动View](Android/Native/Jetpack/动画和转换/使用动画移动View.md)
             - [使用动画缩放图片](Android/Native/Jetpack/动画和转换/使用动画缩放图片.md)
             - [ViewGroup内容改变时的动画效果—LayoutTransition](Android/Native/Jetpack/动画和转换/ViewGroup内容改变时的动画效果—LayoutTransition.md)
+            - [在布局切换之间实现Transition动画](Android/Native/Jetpack/动画和转换/在布局切换之间实现Transition动画.md)
 
      * [Flutter](Android/Flutter/README.md)
          * [APP的基础——组件](Android/Flutter/APP的基础——组件.md)  
