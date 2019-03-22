@@ -87,6 +87,3 @@ Transition框架有一些使用限制，
 ## 参考  
 - https://github.com/lgvalle/Material-Animations
 - https://developer.android.google.cn/training/transitions/  
-
-> 关注我的技术公众号，不定期会有技术文章推送，不敢说优质，但至少是我自己的学习心得。微信扫一扫下方二维码即可关注：  
-> ![二维码](https://ws1.sinaimg.cn/large/006tNc79ly1fz0b9yxfsbj309k09kt8n.jpg)

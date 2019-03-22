@@ -113,6 +113,3 @@ tvShare.setOnClickListener {
 - https://android.jlelse.eu/android-material-design-activity-transition-55de706ab967  
 - https://www.jianshu.com/p/a43daa1e3d6e  
 - https://github.com/lgvalle/Material-Animations  
-
-> 关注我的技术公众号，不定期会有技术文章推送，不敢说优质，但至少是我自己的学习心得。微信扫一扫下方二维码即可关注：  
-> ![二维码](https://ws1.sinaimg.cn/large/006tNc79ly1fz0b9yxfsbj309k09kt8n.jpg)
